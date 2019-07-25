@@ -12,10 +12,10 @@
 
 4. Check if data imported correctly. Pulled up records and made sure that fields were correct.
 
-- ![](./1.jpg)
+- ![](./1.png)
 
-- ![](./2.jpg)
+- ![](./2.png)
 
 5. Obtained sample report on Salesforce client.
  
-- ![](./3.jpg)
+- ![](./3.png)
