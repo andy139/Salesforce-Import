@@ -10,11 +10,12 @@
 
 3. Add new records, set correct character code, and map the fields correctly (important!!!).
 
-![](./1.png)
+![](./2.png)
+
 
 4. Check if data imported correctly. Pulled up records and made sure that fields were correct.
 
-![](./2.png)
+![](./1.png)
 
 5. Obtained a sample report on Salesforce client.
  
