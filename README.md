@@ -12,4 +12,4 @@ Import dataset into Salesforce
 
 4. Check if data imported correctly. Pulled up records and made sure that fields were correct.
 
-5. Drew up report on Salesforce client.
+5. Obtained sample report on Salesforce client.
