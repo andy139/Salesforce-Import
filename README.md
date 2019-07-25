@@ -1,7 +1,7 @@
 # Salesforce Assignment
 
 ## Objective
-Import dataset into Salesforce
+- Import dataset into Salesforce sucessfully!
 
 ## My Approach
 1. For the purpose of this assignment I created a simple dataset through Mockaroo with five columns and 1000 observations. This dataset consisted of First Name, Last Name, City, Donation Amount, and Emails
@@ -12,4 +12,10 @@ Import dataset into Salesforce
 
 4. Check if data imported correctly. Pulled up records and made sure that fields were correct.
 
+- ![](./1.jpg)
+
+- ![](./2.jpg)
+
 5. Obtained sample report on Salesforce client.
+ 
+- ![](./3.jpg)
