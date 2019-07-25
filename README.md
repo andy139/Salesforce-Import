@@ -18,4 +18,4 @@
 
 5. Obtained sample report on Salesforce client.
  
-- ![](./3.png)
+![](./3.png)
