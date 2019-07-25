@@ -8,12 +8,12 @@
 
 2. Imported data into Salesforce NPSP. I utilized the NSPS Data Importer tool to do this.
 
-3. Add new records, set correct character code, and map the fields correctly (important!!!).
+3. Added new records, set correct character code, and map the fields correctly (important!!!).
 
 ![](./2.png)
 
 
-4. Check if data imported correctly. Pulled up records and made sure that fields were correct.
+4. I checked if data imported correctly. Pulled up records and made sure that fields were correct.
 
 ![](./1.png)
 
