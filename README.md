@@ -16,6 +16,6 @@
 
 ![](./2.png)
 
-5. Obtained sample report on Salesforce client.
+5. Obtained a sample report on Salesforce client.
  
 ![](./3.png)
